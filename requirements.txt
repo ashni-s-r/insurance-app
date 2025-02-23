@@ -1,5 +1,7 @@
+alembic
 fastapi==0.103.1
 pre-commit==3.7.0
+psycopg2
 pytest==7.4.2
 python-dotenv==1.0.0
 requests==2.31.0
